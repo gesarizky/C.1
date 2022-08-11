@@ -1,10 +1,10 @@
 /**********************************************************
-*  PEMROGRAMAN C++: MUDAH & CEPAT MENJADI MASTER C++      *
+*  PEMROGRAMAN C++                                        *
 *                                                         *
-*  Oleh    : Budi Raharjo                                 *
-*  Email   : mbraharjo@gmail.com                          *
+*  Oleh    : Gesa Rizky Nygraha                           *
+*  Email   : gesarizkynugraha@gmail.com                   *
 *                                                         *
-*  Website : www.best-informatic.com                      *
+*  Website : karenabelajar.blogspot.com                   *
 *                                                         *
 ***********************************************************/
 
