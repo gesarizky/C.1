@@ -1,7 +1,7 @@
 /**********************************************************
 *  PEMROGRAMAN C++                                        *
 *                                                         *
-*  Oleh    : Gesa Rizky Nygraha                           *
+*  Oleh    : Gesa Rizky Nugraha                           *
 *  Email   : gesarizkynugraha@gmail.com                   *
 *                                                         *
 *  Website : karenabelajar.blogspot.com                   *
